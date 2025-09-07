@@ -1,8 +1,8 @@
 # Japan Quake Alert (chrome拡張機能)
 
  - 緊急地震速報(予報)・(警報)を通知する拡張機能
- [導入はこちら](https://github.com/4gana1-human/Japan-Quake-Alert/releases/tag/v0.3.1)
- - 導入方法および使い方 → [外部サイト](https://note.com/4gana1_human/n/n7032c0c6ff26?sub_rt=share_sb)
+ [導入はこちら](https://chromewebstore.google.com/detail/eicpbodfpiaimdkjbmbiomgefjflgibj?utm_source=item-share-cb)
+ - 導入方法および使い方 → [外部サイト](https://note.com/4gana1_human/n/nda506f9bfcc6?sub_rt=share_pw)
 
 ## ご利用に当たっての注意
  - [気象庁「緊急地震速報について」](https://www.data.jma.go.jp/svd/eew/data/nc/)を確認し、緊急地震速報について正しく理解したうえでご利用ください。
@@ -14,7 +14,9 @@
 ## 変更履歴
 **必ず、最新のものをダウンロードしてご利用ください。**
 
-v0.3.1 初期設定時に通知が来ない不具合を修正 2024/12/24 **[(最新)](https://github.com/4gana1-human/Japan-Quake-Alert/releases/tag/v0.3.1)**
+V1.0.0 chromeウェブストアに公開 2025/9/7 **[最新](https://chromewebstore.google.com/detail/eicpbodfpiaimdkjbmbiomgefjflgibj?utm_source=item-share-cb)**
+
+v0.3.1 初期設定時に通知が来ない不具合を修正 2024/12/24 
 
 v0.3.0 詳細設定の追加および一部UIの変更 2024/12/22 
 
@@ -27,4 +29,4 @@ v0.1.1 通知が来ないバグを修正 2024/11/4
 v0.1.0 プレリリース 2024/11/2
 
 ## お問い合わせ
- - [お問い合わせフォーム](https://forms.office.com/r/hLmadvpif4)
+ - 拡張機能内からお願いします。
