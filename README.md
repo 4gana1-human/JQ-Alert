@@ -1,4 +1,4 @@
-# Japan Quake Alert (chrome拡張機能)
+# JQ Alert (chrome拡張機能)
 
  - 緊急地震速報(予報)・(警報)を通知する拡張機能
  [導入はこちら](https://chromewebstore.google.com/detail/eicpbodfpiaimdkjbmbiomgefjflgibj?utm_source=item-share-cb)
